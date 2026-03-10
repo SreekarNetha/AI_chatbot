@@ -1,8 +1,11 @@
-transformers
 gptqmodel
 optimum
 metadata
-torch 
 torchvision 
 torchaudio
+streamlit==1.25.0
+torch==2.1.0+cpu
+transformers>=4.40.0
+accelerate>=0.23.0
+sentencepiece
 -f https://download.pytorch.org/whl/torch_stable.html
