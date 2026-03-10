@@ -2,4 +2,7 @@ transformers
 gptqmodel
 optimum
 metadata
-torch torchvision torchaudio -f https://download.pytorch.org/whl/torch_stable.html
+torch 
+torchvision 
+torchaudio
+-f https://download.pytorch.org/whl/torch_stable.html
